@@ -1,3 +1,5 @@
+tar : server client daemon clean
+
 CC = gcc
 SERVER_DIR = Server/
 CLIENT_DIR = Client/
