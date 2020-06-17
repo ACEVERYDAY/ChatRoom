@@ -1,0 +1,429 @@
+
+_____________________________________
+Tue Jun  9 17:59:05 2020
+zhangsan: hello lisi! success?
+
+Tue Jun  9 17:59:23 2020
+lisi: hello zhangsan!
+
+Tue Jun  9 17:59:39 2020
+lisi: asdfsfsdffgd
+
+Tue Jun  9 17:59:41 2020
+lisi: sdaasdas
+
+Tue Jun  9 17:59:42 2020
+lisi: sdfsfsgdfg
+
+Tue Jun  9 18:00:15 2020
+lisi: bye
+
+Tue Jun  9 18:00:19 2020
+zhangsan: bye
+
+
+_____________________________________
+Wed Jun 10 02:51:09 2020
+qwert: asdfsg
+
+
+_____________________________________
+Wed Jun 10 02:53:01 2020
+asdfg: hello
+
+Wed Jun 10 02:53:06 2020
+asdfg: boys
+
+Wed Jun 10 02:53:07 2020
+asdfg: and 
+
+Wed Jun 10 02:53:09 2020
+asdfg: girls
+
+Wed Jun 10 02:53:12 2020
+asdfg: bye
+
+
+_____________________________________
+
+_____________________________________
+Wed Jun 10 03:00:26 2020
+changmingyu: sdfdfg
+
+Wed Jun 10 03:00:26 2020
+changmingyu: dfg
+
+Wed Jun 10 03:00:27 2020
+changmingyu: fsdfs
+
+Wed Jun 10 03:00:30 2020
+changmingyu: bye
+
+
+_____________________________________
+Wed Jun 10 03:03:07 2020
+zhangsan: hello changmingyu i'm zhangsan!
+
+Wed Jun 10 03:03:15 2020
+changmingyu: hi, this is changmingyu!
+
+Wed Jun 10 03:03:17 2020
+changmingyu: fine
+
+Wed Jun 10 03:03:20 2020
+changmingyu: bye
+
+Wed Jun 10 03:03:23 2020
+zhangsan: bye
+
+
+_____________________________________
+Wed Jun 10 03:42:19 2020
+xiaocui: hello my name's xiaocui!
+
+Wed Jun 10 03:42:30 2020
+xiaocui: good well perfect!
+
+Wed Jun 10 03:42:32 2020
+xiaocui: bye
+
+
+_____________________________________
+Wed Jun 10 11:04:42 2020
+zhangsan: woshi zhangsan!
+
+Wed Jun 10 11:04:47 2020
+lisi: this is lisi!
+
+Wed Jun 10 11:04:57 2020
+xiaowen: this is xiaowen! hello boys and girls!
+
+Wed Jun 10 11:05:06 2020
+xiaowen: ladies and gentlemans!
+
+Wed Jun 10 11:05:11 2020
+xiaowen: goodbye
+
+Wed Jun 10 11:05:13 2020
+xiaowen: bye
+
+Wed Jun 10 11:05:17 2020
+zhangsan: bye
+
+Wed Jun 10 11:05:21 2020
+lisi: bye
+
+
+_____________________________________
+Wed Jun 10 11:15:05 2020
+xiaozhang: hello my name's xiaozhang!
+
+Wed Jun 10 11:15:08 2020
+xiaozhang: bye
+
+
+_____________________________________
+Wed Jun 10 19:21:18 2020
+xiaoli: hello, my name's xiaoli, i love China!
+
+Wed Jun 10 19:21:27 2020
+xiaoli: goodbye!
+
+Wed Jun 10 19:21:28 2020
+xiaoli: bye
+
+
+_____________________________________
+Sat Jun 13 18:18:34 2020
+xiaosi: hello zhangsan
+
+Sat Jun 13 18:18:37 2020
+xiaosi: nihao!
+
+Sat Jun 13 18:18:44 2020
+zhangsan: hello xiaosi, nihao!
+
+Sat Jun 13 18:18:51 2020
+zhangsan: how are you?
+
+Sat Jun 13 18:19:05 2020
+xiaosi: fine, thank you, and you?
+
+Sat Jun 13 18:19:09 2020
+zhangsan: fine too
+
+Sat Jun 13 18:19:10 2020
+zhangsan: bye
+
+Sat Jun 13 18:19:15 2020
+xiaosi: bye
+
+
+_____________________________________
+Sat Jun 13 19:04:51 2020
+hello: 123456
+
+Sat Jun 13 19:04:53 2020
+hello: 456
+
+Sat Jun 13 19:04:54 2020
+hello: bye
+
+
+_____________________________________
+Sun Jun 14 10:25:05 2020
+zhangsan: hello zhanglong, this is zhangsan!
+
+Sun Jun 14 10:25:14 2020
+zhanglong: hello zhangsan this is zhanglong !
+
+Sun Jun 14 10:25:21 2020
+zhanglong: how are you?
+
+Sun Jun 14 10:25:31 2020
+zhangsan: fine, thank you ,and you?
+
+Sun Jun 14 10:25:40 2020
+zhanglong: I'm fine too!
+
+Sun Jun 14 10:25:42 2020
+zhanglong: bye
+
+Sun Jun 14 10:25:48 2020
+zhanglong: #bye
+
+Sun Jun 14 10:26:17 2020
+zhangsan: I wanna get a view of the chat-record
+
+Sun Jun 14 10:26:24 2020
+zhangsan: #chat record
+
+Sun Jun 14 10:26:47 2020
+zhangsan: ok, fine
+
+Sun Jun 14 10:26:50 2020
+zhangsan: #bye
+
+
+_____________________________________
+
+
+_____________________________________
+Sun Jun 14 12:17:32 2020
+zhangsan: #chat record
+
+Sun Jun 14 12:17:37 2020
+zhangsan: #char record
+
+Sun Jun 14 12:17:44 2020
+zhangsan: #chatrecord
+
+Sun Jun 14 12:17:54 2020
+zhangsan: #chat record
+
+Sun Jun 14 12:17:54 2020
+zhangsan: 
+
+Sun Jun 14 12:17:57 2020
+zhangsan: 
+
+Sun Jun 14 13:15:04 2020
+zhangsan: #bye
+
+
+_____________________________________
+Sun Jun 14 13:19:26 2020
+zhangsan: #chat record
+
+Sun Jun 14 13:19:44 2020
+zhangsan: #chat record
+
+Sun Jun 14 13:20:00 2020
+zhangsan: #bye
+
+
+_____________________________________
+Sun Jun 14 13:22:18 2020
+zhangsan: asd
+
+Sun Jun 14 13:22:24 2020
+zhangsan: #chat record
+
+Sun Jun 14 13:22:33 2020
+zhangsan: hello
+
+Sun Jun 14 13:22:43 2020
+zhangsan: #chat record
+
+Sun Jun 14 13:22:47 2020
+zhangsan: hello
+
+Sun Jun 14 13:22:51 2020
+zhangsan: #bye
+
+
+_____________________________________
+Sun Jun 14 13:25:03 2020
+zhangsan: hello zhangsan!
+
+Sun Jun 14 13:25:09 2020
+zhangsan: #chat record
+
+Sun Jun 14 13:25:14 2020
+zhangsan: #bye
+
+
+_____________________________________
+Sun Jun 14 13:27:10 2020
+zhouhongyi: hello i'm Hongyi Zhou.
+
+Sun Jun 14 13:27:15 2020
+zhouhongyi: #chat record
+
+Sun Jun 14 13:27:19 2020
+zhouhongyi: ok
+
+Sun Jun 14 13:27:21 2020
+zhouhongyi: fine
+
+Sun Jun 14 13:27:25 2020
+zhouhongyi: #bye
+
+
+_____________________________________
+
+_____________________________________
+
+_____________________________________
+
+_____________________________________
+
+_____________________________________
+Mon Jun 15 18:12:36 2020
+xiaoliu: hello, is anyone here?
+
+Mon Jun 15 18:12:55 2020
+zhangsan: yes, my name's zhangsan
+
+Mon Jun 15 18:13:02 2020
+zhangsan: what's your name?
+
+Mon Jun 15 18:13:13 2020
+xiaoliu: my name is xiaoliu
+
+Mon Jun 15 18:13:23 2020
+xiaoliu: i've just register
+
+Mon Jun 15 18:13:38 2020
+lisi: hey two man, my name's lisi!
+
+Mon Jun 15 18:13:46 2020
+zhangsan: how are you?
+
+Mon Jun 15 18:13:59 2020
+lisi: fine, thank you, and you?
+
+Mon Jun 15 18:14:05 2020
+zhangsan: i'm fine too
+
+Mon Jun 15 18:14:13 2020
+zhangsan: #chat record
+
+Mon Jun 15 18:14:25 2020
+zhangsan: #bye
+
+Mon Jun 15 18:14:40 2020
+lisi: #bye
+
+Mon Jun 15 18:14:49 2020
+xiaoliu: #chat record
+
+Mon Jun 15 18:14:54 2020
+xiaoliu: #bye
+
+
+_____________________________________
+
+_____________________________________
+
+_____________________________________
+Mon Jun 15 21:14:45 2020
+zhangsan: hello my name's zhangsan!
+
+Mon Jun 15 21:14:49 2020
+zhangsan: #chat record
+
+Mon Jun 15 21:14:52 2020
+zhangsan: #bye
+
+
+_____________________________________
+Mon Jun 15 21:42:25 2020
+wangyutian: hello everyone, this is wangyutisn!
+
+Mon Jun 15 21:42:31 2020
+zhangsan: hello this is zhangsan
+
+Mon Jun 15 21:42:36 2020
+lisi: this is lisi!
+
+Mon Jun 15 21:42:39 2020
+lisi: nimen hao!
+
+Mon Jun 15 21:42:45 2020
+zhangsan: nihao lisi!
+
+Mon Jun 15 21:42:49 2020
+wangyutian: nihao lisi!
+
+Mon Jun 15 21:42:52 2020
+wangyutian: #bye
+
+Mon Jun 15 21:42:59 2020
+zhangsan: #chat record
+
+Mon Jun 15 21:43:06 2020
+zhangsan: #bye
+
+Mon Jun 15 21:43:11 2020
+lisi: #bye
+
+
+_____________________________________
+
+_____________________________________
+
+_____________________________________
+Wed Jun 17 09:03:13 2020
+tianlaoshi: hello, my name is tianlaoshi!
+
+Wed Jun 17 09:03:21 2020
+lisi: hi, this is lisi!
+
+Wed Jun 17 09:03:28 2020
+zhangsan: this is zhangsan!
+
+Wed Jun 17 09:03:33 2020
+zhangsan: how are you today?
+
+Wed Jun 17 09:03:44 2020
+tianlaoshi: fine, thank you, and you?
+
+Wed Jun 17 09:03:50 2020
+zhangsan: i'm fine too!
+
+Wed Jun 17 09:03:53 2020
+lisi: ok
+
+Wed Jun 17 09:03:55 2020
+lisi: #bye
+
+Wed Jun 17 09:03:59 2020
+zhangsan: #bye
+
+Wed Jun 17 09:04:14 2020
+tianlaoshi: #chat record
+
+Wed Jun 17 09:04:20 2020
+tianlaoshi: #bye
+
